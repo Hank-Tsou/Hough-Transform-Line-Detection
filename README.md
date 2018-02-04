@@ -22,4 +22,6 @@
 
 >>> (d) The program will show the result image
 
+>>> ![image](https://user-images.githubusercontent.com/28382639/35773127-d6171cc4-08fd-11e8-85ec-b378d11727d3.png)
+
 >> #### (B) How to run the code [1_a-2.py]: Same as '1_a-1.py'
