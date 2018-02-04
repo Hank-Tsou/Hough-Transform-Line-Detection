@@ -25,3 +25,5 @@
 >>> ![image](https://user-images.githubusercontent.com/28382639/35773127-d6171cc4-08fd-11e8-85ec-b378d11727d3.png)
 
 >> #### (B) How to run the code [1_a-2.py]: Same as '1_a-1.py'
+
+>>> ![image](https://user-images.githubusercontent.com/28382639/35773134-142dff32-08fe-11e8-8581-ad74e4612a05.png)
