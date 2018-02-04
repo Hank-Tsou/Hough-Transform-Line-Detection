@@ -6,7 +6,6 @@
 >>* (2) pool.jpg</br>
 >>* (3) 1_a-1.py [ Use Hough Transform to detect lines on target edge image]</br>
 >>* (4) 1_a-2.py [ Use Hough Transform to detect lines on target edge image and contour ]</br>
->>* (5) Four output images</br>
 
 >>> <pre>Note: Each program can select one of the opencv function below:</br>" [1] cv2.HoughLines() " and " [2] cv2.HoughLinesP() "</br>--Therefore, there will have two output images for each program
 
