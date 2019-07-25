@@ -11,10 +11,10 @@ Command line: python hough_line_transform.py -i line.png
 command line: python hough_line_transform.py -i square.png
 ```
 
-Process description descibe in [Hough Line Transform](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/11_Hough_Line_Transform)
-
+* Process description descibe in [Hough Line Transform](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/11_Hough_Line_Transform)
+```
 The program will show the result image as below: 
-
+```
 ![](README_IMG/hough_line.png)
 
 Useful link for implementation:
