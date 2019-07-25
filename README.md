@@ -11,7 +11,7 @@ Command line: python hough_line_transform.py -i line.png
 command line: python hough_line_transform.py -i square.png
 ```
 
-The program will show the result image as below: 
+* The program will show the result image as below: 
 
 ![](README_IMG/hough_line.png)
 
