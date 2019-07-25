@@ -13,6 +13,7 @@ command line: python hough_line_transform.py -i square.png
 
 The program will show the result image as below: 
 
+![](README_IMG/hough_line.png)
 
 Useful link for implementation:
 
@@ -33,11 +34,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Author: Hank Tsou
 * Contact: hank630280888@gmail.com
-
-
-
-
-
->>> ![image](https://user-images.githubusercontent.com/28382639/35773127-d6171cc4-08fd-11e8-85ec-b378d11727d3.png)
-
->>> ![image](https://user-images.githubusercontent.com/28382639/35773134-142dff32-08fe-11e8-8581-ad74e4612a05.png)
